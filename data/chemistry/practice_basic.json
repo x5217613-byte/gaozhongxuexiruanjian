@@ -1,0 +1,36 @@
+[
+  {
+    "type": "single_choice",
+    "stem": "下列反应属于氧化还原反应的是？",
+    "options": [
+      "NaCl → Na+ + Cl-",
+      "Zn + CuSO4 → Cu + ZnSO4",
+      "H2O → H+ + OH-",
+      "AgCl ↓"
+    ],
+    "marking_guide": {
+      "answer": "B"
+    }
+  },
+  {
+    "type": "short_answer",
+    "stem": "配平：Fe + O2 → Fe2O3",
+    "options": [],
+    "marking_guide": {
+      "rubric": "4Fe + 3O2 → 2Fe2O3"
+    }
+  },
+  {
+    "type": "single_choice",
+    "stem": "pH=3 的溶液与 pH=5 比较，[H+]大小为？",
+    "options": [
+      "10倍",
+      "1/10",
+      "100倍",
+      "一样"
+    ],
+    "marking_guide": {
+      "answer": "A"
+    }
+  }
+]
